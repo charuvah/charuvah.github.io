@@ -220,12 +220,14 @@ POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.org", "posts", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.md", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
+    ("stories/*.org", "stories", "story.tmpl"),
 )
 
 
@@ -303,11 +305,12 @@ COMPILERS = {
     # but is disabled by default as it would conflict
     # with many of the others.
     # "pandoc": ('.rst', '.md', '.txt'),
+    "orgmode": ('.org',),
 }
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
-# ONE_FILE_POSTS = True
+# ONE_FILE_PSpatial sensing is a fundamental requirement for applications in robotics and augmented reality. In urban spaces such as malls, airports, apartments, and others, it is quite challenging for a single robot to map the whole environment. So, we employ a swarm of robots to perform the mapping. One challenge with this approach is merging sub-maps built by each robot. In this work, we use wireless access points, which are ubiquitous in most urban spaces, to provide us with coarse orientation between sub-maps, and use a custom ICP algorithm to refine this orientation to merge them. We demonstrate our approach with maps from a building on campus and evaluate it using two metrics. Our results show that, in the building we studied, we can achieve an average Absolute Trajectory error of 0.2m in comparison to a map created by a single robot and average Root Mean Square mapping error of 1.3m from ground truth landmark locations.OSTS = True
 
 # Preferred metadata format for new posts
 # "Nikola": reST comments, wrapped in a HTML comment if needed (default)
