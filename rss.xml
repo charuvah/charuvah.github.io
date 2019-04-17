@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Charuvahan Adhivarahan</title><link>https://charuvah.github.io/</link><description>This is the github index website</description><atom:link href="https://charuvah.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:charuvah@b.e"&gt;Charuvahan Adhivarahan&lt;/a&gt; </copyright><lastBuildDate>Wed, 17 Apr 2019 17:56:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentations</title><link>https://charuvah.github.io/posts/presentations/</link><dc:creator>Charuvahan Adhivarahan</dc:creator><description>&lt;div id="outline-container-org13fe9aa" class="outline-2"&gt;
+&lt;h2 id="org13fe9aa"&gt;Github Presentations&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org13fe9aa"&gt;
+&lt;ul class="org-ul"&gt;
+&lt;li&gt;&lt;a href="https://charuvah.github.io/smart-presentation-molab-workshop-human-intro/"&gt;SMART Motion Lab Workshop: Introduction to Human Motion Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://charuvah.github.io/smart-presentation-molab-tour"&gt;SMART Motion Lab Tour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://charuvah.github.io/smart-sed-presentation"&gt;SMART Motion Lab Science Exploration Day&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://charuvah.github.io/posts/presentations/</guid><pubDate>Wed, 17 Apr 2019 17:52:19 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,17 @@
+#+BEGIN_COMMENT
+.. title: Presentations
+.. slug: presentations
+.. date: 2019-04-17 13:52:19 UTC-04:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+
+
+* Github Presentations
+- [[https://charuvah.github.io/smart-presentation-molab-workshop-human-intro/][SMART Motion Lab Workshop: Introduction to Human Motion Tracking]]
+- [[https://charuvah.github.io/smart-presentation-molab-tour][SMART Motion Lab Tour]]
+- [[https://charuvah.github.io/smart-sed-presentation][SMART Motion Lab Science Exploration Day]]

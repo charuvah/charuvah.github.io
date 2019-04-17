@@ -1,0 +1,4 @@
+Sitemap: https://charuvah.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: charuvah.github.io
